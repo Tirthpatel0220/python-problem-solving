@@ -11,60 +11,64 @@
 <a href="https://github.com/Tirthpatel0220/python-problem-solving">
 <img src="https://img.shields.io/github/stars/Tirthpatel0220/python-problem-solving?style=for-the-badge&logo=github&label=Stars&color=yellow"/>
 </a>
+
 <a href="https://github.com/Tirthpatel0220/python-problem-solving/network/members">
 <img src="https://img.shields.io/github/forks/Tirthpatel0220/python-problem-solving?style=for-the-badge&logo=github&label=Forks&color=green"/>
 </a>
+
 <a href="https://github.com/Tirthpatel0220/python-problem-solving/commits/main">
 <img src="https://img.shields.io/github/last-commit/Tirthpatel0220/python-problem-solving?style=for-the-badge&logo=git&label=Last%20Commit&color=orange"/>
 </a>
-<a href="https://github.com/Tirthpatel0220/python-problem-solving">
+
+<a href="https://github.com/Tirthpatel0220">
 <img src="https://komarev.com/ghpvc/?username=Tirthpatel0220&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 </a>
 
 <br><br>
 
-**A journey from writing code → understanding logic → solving problems → becoming a better developer. 🚀**
+### 🧠 Learn • 🧩 Solve • 💻 Code • 🚀 Improve
+
+**A journey from writing code → understanding logic → solving problems → becoming a better developer.**
 
 </div>
 
 ---
 
-## 🧠 About This Repository
+# 🧠 About This Repository
 
-Welcome to **Python Problem Solving**! 🐍
+Welcome to **Python Problem Solving!** 🐍
 
-This repository is my personal collection of **Python programs, coding problems, logical exercises, and problem-solving practice**.
+This repository contains my collection of **Python programs, coding problems, logical exercises, and problem-solving practice**.
 
-I'm building this repository while learning and strengthening my understanding of:
+I'm using this repository to strengthen my programming fundamentals and build a strong foundation in:
 
 * 🐍 **Python Programming**
-* 🧠 **Problem Solving & Logical Thinking**
+* 🧠 **Problem Solving**
 * 🏗️ **Object-Oriented Programming**
 * 📊 **Data Structures & Algorithms**
-* 💻 **Programming Fundamentals**
+* 💻 **Programming Logic**
 * 🔧 **Git & GitHub**
 
-> 💡 **The goal isn't just to write code.
-> The goal is to understand the problem, build the logic, and write a better solution.**
+> 💡 **The goal isn't just to write code. The goal is to understand the problem, build the logic, and improve the solution.**
 
 ---
 
-## 🎯 Repository Goals
+# 🎯 What I'm Building
 
 <div align="center">
 
-|     🧠 Learn    |    🧩 Practice    |    🚀 Improve   |
-| :-------------: | :---------------: | :-------------: |
-| Python Concepts |  Coding Problems  | Problem Solving |
-|       OOP       | Logical Questions |   Code Quality  |
-|       DSA       |     Algorithms    | Time Complexity |
-|   Git & GitHub  |   Daily Practice  |   Consistency   |
+|   🐍 Python   |     🧠 Logic    |    🏗️ OOP   |      📊 DSA     |
+| :-----------: | :-------------: | :----------: | :-------------: |
+|  Fundamentals | Problem Solving |    Classes   | Data Structures |
+|   Functions   |    Algorithms   |    Objects   |    Algorithms   |
+|  Collections  |   Optimization  |  Inheritance |    Complexity   |
+| File Handling |    Debugging    | Polymorphism | Problem Solving |
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 <div align="center">
 
@@ -83,7 +87,7 @@ I'm building this repository while learning and strengthening my understanding o
 
 ---
 
-# 📚 What I'm Learning
+# 📚 Topics I'm Practicing
 
 <details>
 <summary><b>🐍 Python Programming</b></summary>
@@ -100,6 +104,7 @@ I'm building this repository while learning and strengthening my understanding o
 * Sets
 * Dictionaries
 * Strings
+* Pattern Problems
 * File Handling
 * Exception Handling
 * Modules & Packages
@@ -148,33 +153,36 @@ I'm building this repository while learning and strengthening my understanding o
 
 ---
 
-# 🏗️ Repository Roadmap
+# 🏗️ My Learning Path
+
+<div align="center">
 
 ```text
-                    🐍 PYTHON
-                       │
-                       ▼
-                📚 FUNDAMENTALS
-                       │
-                       ▼
-                 🧩 PROBLEM
-                   SOLVING
-                       │
-                       ▼
+                 🐍 PYTHON
+                     │
+                     ▼
+             📚 FUNDAMENTALS
+                     │
+                     ▼
+              🧩 PROBLEM SOLVING
+                     │
+                     ▼
                   🏗️ OOP
-                       │
-                       ▼
-                   📊 DSA
-                       │
-                       ▼
-                ⚡ ALGORITHMS
-                       │
-                       ▼
+                     │
+                     ▼
+                  📊 DSA
+                     │
+                     ▼
+               ⚡ ALGORITHMS
+                     │
+                     ▼
               🧠 ADVANCED LOGIC
-                       │
-                       ▼
-                🚀 BETTER CODER
+                     │
+                     ▼
+               🚀 BETTER CODER
 ```
+
+</div>
 
 ---
 
@@ -218,33 +226,29 @@ I'm building this repository while learning and strengthening my understanding o
 <div align="center">
 
 ```text
-┌──────────────────────┐
-│   1. Understand      │
-│      the Problem     │
-└──────────┬───────────┘
-           ↓
-┌──────────────────────┐
-│   2. Break It Down   │
-│      Into Logic      │
-└──────────┬───────────┘
-           ↓
-┌──────────────────────┐
-│   3. Write Solution  │
-│      in Python       │
-└──────────┬───────────┘
-           ↓
-┌──────────────────────┐
-│   4. Test & Debug    │
-└──────────┬───────────┘
-           ↓
-┌──────────────────────┐
-│   5. Optimize        │
-│   Time + Space       │
-└──────────┬───────────┘
-           ↓
-┌──────────────────────┐
-│   6. Commit 🚀       │
-└──────────────────────┘
+┌─────────────────────────┐
+│  1️⃣  Understand Problem │
+└────────────┬────────────┘
+             ↓
+┌─────────────────────────┐
+│  2️⃣  Break Into Logic   │
+└────────────┬────────────┘
+             ↓
+┌─────────────────────────┐
+│  3️⃣  Write The Solution │
+└────────────┬────────────┘
+             ↓
+┌─────────────────────────┐
+│  4️⃣  Test & Debug 🐛    │
+└────────────┬────────────┘
+             ↓
+┌─────────────────────────┐
+│  5️⃣  Optimize ⚡        │
+└────────────┬────────────┘
+             ↓
+┌─────────────────────────┐
+│  6️⃣  Commit 🚀          │
+└─────────────────────────┘
 ```
 
 </div>
@@ -255,18 +259,16 @@ I'm building this repository while learning and strengthening my understanding o
 
 <div align="center">
 
-| Area                   |    Progress   |
+| Area                   |     Status    |
 | :--------------------- | :-----------: |
 | 🐍 Python Fundamentals |  🟢 Learning  |
 | 🧩 Problem Solving     | 🟢 Practicing |
 | 🏗️ OOP                |  🟡 Learning  |
-| 📊 DSA                 |  🟡 Learning  |
+| 📊 Data Structures     |  🟡 Learning  |
 | ⚡ Algorithms           |  🟡 Exploring |
 | 🔧 Git & GitHub        | 🟢 Practicing |
 
 </div>
-
-> 🚧 **This is a learning repository, so the progress will change over time.**
 
 ---
 
@@ -276,29 +278,29 @@ I'm building this repository while learning and strengthening my understanding o
 
 ### 🤔 Understand the Problem
 
-↓
+⬇️
 
 ### 🧠 Build the Logic
 
-↓
+⬇️
 
 ### 💻 Write the Code
 
-↓
+⬇️
 
 ### 🐛 Debug the Mistakes
 
-↓
+⬇️
 
 ### ⚡ Optimize the Solution
 
-↓
+⬇️
 
 ### 🚀 Learn Something New
 
 <br>
 
-**"Every bug is just another lesson in disguise." 🐛 → 💡**
+**Every bug is just another lesson in disguise. 🐛 → 💡**
 
 </div>
 
@@ -314,7 +316,9 @@ I'm building this repository while learning and strengthening my understanding o
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tirthpatel0220&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+<!-- GitHub Streak - Starting from 2024 -->
+
+<img src="https://streak-stats.demolab.com/?user=Tirthpatel0220&theme=tokyonight&hide_border=true&background=0D1117&starting_year=2024&date_format=j%2Fn%2FY" alt="GitHub Streak"/>
 
 <br><br>
 
@@ -329,9 +333,13 @@ I'm building this repository while learning and strengthening my understanding o
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tirthpatel0220/python-problem-solving/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tirthpatel0220/python-problem-solving/output/github-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Tirthpatel0220/python-problem-solving/output/github-snake.svg">
+
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tirthpatel0220/python-problem-solving/output/github-snake-dark.svg">
+
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tirthpatel0220/python-problem-solving/output/github-snake.svg">
+
+<img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Tirthpatel0220/python-problem-solving/output/github-snake.svg">
+
 </picture>
 
 </div>
@@ -348,18 +356,19 @@ I'm building this repository while learning and strengthening my understanding o
 
 ---
 
-# 🚀 Future Plans
+# 🚀 Future Goals
 
 ```text
 [x] Start Python Problem Solving
 [x] Practice Python Fundamentals
 [ ] Master Python OOP
-[ ] Strengthen DSA
+[ ] Strengthen Data Structures
+[ ] Learn Algorithms
 [ ] Solve 100+ Problems
-[ ] Learn Advanced Algorithms
+[ ] Improve Time & Space Complexity
 [ ] Practice Competitive Programming
 [ ] Build Python Projects
-[ ] Improve Time & Space Complexity
+[ ] Contribute to Open Source
 [ ] Become a Better Problem Solver 🚀
 ```
 
@@ -385,10 +394,10 @@ I'm building this repository while learning and strengthening my understanding o
        DEBUGGING 🐛
            │
            ▼
-       UNDERSTANDING 💡
+      UNDERSTANDING 💡
            │
            ▼
-        IMPROVING 📈
+       IMPROVING 📈
            │
            ▼
        BUILDING 🚀
@@ -400,34 +409,6 @@ I'm building this repository while learning and strengthening my understanding o
 ### **The goal isn't perfection.**
 
 ### **The goal is progress. 📈**
-
-</div>
-
----
-
-# 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/Tirthpatel0220">
-<img src="https://img.shields.io/badge/GitHub-Tirthpatel0220-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/tirthpatel0220">
-<img src="https://img.shields.io/badge/LinkedIn-Tirth%20Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/tirth0220">
-<img src="https://img.shields.io/badge/Instagram-@tirth0220-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### 💬 Let's Connect, Learn & Build Together!
 
 </div>
 
@@ -465,13 +446,41 @@ Please keep solutions **simple, readable, and beginner-friendly** whenever possi
 
 If this repository helps you learn something new,
 
-### ⭐ Give it a Star!
+## ⭐ Give it a Star!
 
-Every ⭐ is a little motivation to keep learning and building. ❤️
+**Every ⭐ is a little motivation to keep learning and building. ❤️**
 
 <br>
 
-**Thanks for visiting! 🙌**
+### Thanks for visiting! 🙌
+
+</div>
+
+---
+
+# 📬 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Tirthpatel0220">
+<img src="https://img.shields.io/badge/GitHub-Tirthpatel0220-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/tirthpatel0220">
+<img src="https://img.shields.io/badge/LinkedIn-Tirth%20Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/tirth0220">
+<img src="https://img.shields.io/badge/Instagram-@tirth0220-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 💬 Let's Connect, Learn & Build Together!
 
 </div>
 
@@ -483,7 +492,7 @@ Every ⭐ is a little motivation to keep learning and building. ❤️
 
 <br>
 
-**Made with ❤️ and lots of ☕ by [Tirth Patel](https://www.linkedin.com/in/tirthpatel0220)**
+**Made with ❤️ and lots of ☕ by Tirth Patel**
 
 <br>
 
