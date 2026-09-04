@@ -1,4 +1,4 @@
-```markdown
+````markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=%F0%9F%9A%80%20Problem%20Solving%20Hub&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Python%20Solutions%20to%20Coding%20Challenges&descAlignY=55&descSize=18" width="100%"/>
@@ -129,7 +129,7 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="streak"/>
@@ -179,13 +179,9 @@ Want to add a better solution? PRs are welcome! 🎉
 
 ### ⭐ Found this helpful? Give it a star!
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
-
 **Made with ❤️ and lots of ☕ by [Tirth Patel](https://www.linkedin.com/in/tirthpatel0220)**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 </div>
-```
-
-**Before pasting, replace:** `YOUR_GITHUB_USERNAME` → your GitHub username, `REPO_NAME` → your repo name.
+````
