@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1200&color=36BCF7&center=true&vCenter=true&width=750&height=60&lines=Solving+Problems+One+Commit+at+a+Time+%F0%9F%A7%A9;Python+%2B+Logic+%2B+DSA+%F0%9F%90%8D;Learning+Today.+Building+Tomorrow.+%F0%9F%9A%80;Turning+Problems+Into+Solutions+%E2%9A%A1" alt="Typing SVG"/>
+<img  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1200&color=36BCF7&center=true&vCenter=true&width=750&height=60&lines=Solving+Problems+One+Commit+at+a+Time+%F0%9F%A7%A9;Python+%2B+Logic+%2B+DSA+%F0%9F%90%8D;Learning+Today.+Building+Tomorrow.+%F0%9F%9A%80;Turning+Problems+Into+Solutions+%E2%9A%A1" alt="Typing SVG"/>
 
 <br><br>
 
